@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1,XXX Cento_X_Cento
+http://iptvtotal.bestcam.info:25461/live/12345/12345/12544.ts
+#EXTINF:-1,XXX DUSK
+http://iptvtotal.bestcam.info:25461/live/12345/12345/12582.ts
+#EXTINF:-1,XXX Evil Angel.com
+http://iptvtotal.bestcam.info:25461/live/12345/12345/12587.ts
+#EXTINF:-1,XXX Cento_X_Cento
+http://iptvtotal.bestcam.info:25461/live/172/172/12544.ts
+#EXTINF:-1,XXX DUSK
+http://iptvtotal.bestcam.info:25461/live/172/172/12582.ts
+#EXTINF:-1,XXX Evil Angel.com
+http://iptvtotal.bestcam.info:25461/live/172/172/12587.ts
+#EXTINF:-1,XXX Hard x
+http://iptvtotal.bestcam.info:25461/live/172/172/12568.ts
+#EXTINF:-1,XXX JASMIN_TV
+http://iptvtotal.bestcam.info:25461/live/172/172/12546.ts
+#EXTINF:-1,XXX_PlayPoy
+http://iptvtotal.bestcam.info:25461/live/255/255/12558.ts
+#EXTINF:-1,XXX Passie XXX
+http://iptvtotal.bestcam.info:25461/live/276/276/12578.ts
 #EXTINF:-1,HBO PLUS 2
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_2_HD)/Stream(01)/index.m3u8
 #EXTINF:-1,FOX LIFE
